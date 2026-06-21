@@ -1,8 +1,8 @@
-###🎬 Movie Recommendation System
+# 🎬 Movie Recommendation System
 
 A Full-Stack Machine Learning application that recommends 20 similar movies based on a user's selection using Content-Based Filtering and Cosine Similarity. Built with React.js, Flask, and Scikit-Learn, and deployed using Netlify and Hugging Face Spaces.
 
-##🚀 Live Demo
+## 🚀 Live Demo
 * **Frontend: [https://movie-recommendation-ml.netlify.app/]
 * **Backend API: [https://rashijaiswal20-movie-recommender-backend.hf.space]
 
@@ -53,6 +53,7 @@ A Full-Stack Machine Learning application that recommends 20 similar movies base
 * Pre-trained model stored using Pickle (.pkl)
 
 ## 🏗 Architecture
+```text
 User
   ↓
 React Frontend
@@ -66,23 +67,27 @@ Cosine Similarity Engine
 TMDB API
   ↓
 Movie Recommendations + Posters
+```
 
 ## 💻 Local Setup
 Follow these steps to run the project locally on your machine:
-#1. Clone Repository
-```Bash
-git clone [GitHub](https://github.com/rashijaiswal22/Movie_Recommendation_System.git)
-cd movie-recommendation-system 
+### 1. Clone Repository
+
+Repository Link: [Movie Recommendation System]https://github.com/rashijaiswal22/Movie_Recommendation_System)
+
+```bash
+git clone https://github.com/rashijaiswal22/Movie_Recommendation_System.git
+cd Movie_Recommendation_System
 ```
 
-#2. Backend Setup
+# 2. Backend Setup
 ```
 cd backend
 pip install -r requirements.txt
 python app.py
 ```
 
-#3. Frontend Setup
+# 3. Frontend Setup
 ```
 cd frontend
 npm install
