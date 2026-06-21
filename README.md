@@ -3,8 +3,8 @@
 A Full-Stack Machine Learning application that recommends 20 similar movies based on a user's selection using Content-Based Filtering and Cosine Similarity. Built with React.js, Flask, and Scikit-Learn, and deployed using Netlify and Hugging Face Spaces.
 
 ## 🚀 Live Demo
-* **Frontend: [https://movie-recommendation-ml.netlify.app/]
-* **Backend API: [https://rashijaiswal20-movie-recommender-backend.hf.space]
+**Frontend** : [https://movie-recommendation-ml.netlify.app/]
+**Backend API** : [https://rashijaiswal20-movie-recommender-backend.hf.space]
 
 ## 🛠️ Tech Stack
 ### **Frontend**
@@ -72,9 +72,6 @@ Movie Recommendations + Posters
 ## 💻 Local Setup
 Follow these steps to run the project locally on your machine:
 ### 1. Clone Repository
-
-Repository Link: [Movie Recommendation System]https://github.com/rashijaiswal22/Movie_Recommendation_System)
-
 ```bash
 git clone https://github.com/rashijaiswal22/Movie_Recommendation_System.git
 cd Movie_Recommendation_System
