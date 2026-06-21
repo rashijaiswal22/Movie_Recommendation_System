@@ -4,7 +4,7 @@ A Full-Stack Machine Learning application that recommends 20 similar movies base
 
 ## 🚀 Live Demo
 * Frontend : [https://movie-recommendation-ml.netlify.app/]
-* Backend API** : [https://rashijaiswal20-movie-recommender-backend.hf.space]
+* Backend API : [https://rashijaiswal20-movie-recommender-backend.hf.space]
 
 ## 🛠️ Tech Stack
 ### **Frontend**
@@ -31,6 +31,19 @@ A Full-Stack Machine Learning application that recommends 20 similar movies base
 * REST API-based architecture
 * Dockerized backend deployment
 
+### **✨ Live Recommendation Examples**
+<p align="center">
+  <img src="./screenshots/img1.1ml.png" alt="Movie Recommendation System Dashboard" width="100%">
+</p>
+#### **1. Sci-Fi & Action Recommendations (e.g., Spider-Man 3)**
+<p align="center">
+  <img src="./screenshots/img1ml.jpg" alt="Spider-Man Recommendations Grid" width="100%">
+</p>
+
+#### **2. Animated & Family Recommendations (e.g., Tangled)**
+<p align="center">
+  <img src="./screenshots/img2ml.jpg" alt="Animated Movies Recommendations Grid" width="100%">
+</p>
 ## ⚙️ How It Works (Data Pipeline)
 
 1. **Data Preprocessing & Feature Engineering:** 
