@@ -32,20 +32,31 @@ A Full-Stack Machine Learning application that recommends 20 similar movies base
 * Dockerized backend deployment
 
 ### **✨ Live Recommendation Examples**
-<p align="center">
-  <img src="./screenshots/img1.1ml.png" alt="Movie Recommendation System Dashboard" width="100%">
-</p>
-#### **1. Sci-Fi & Action Recommendations (e.g., Spider-Man 3)**
-<p align="center">
-  <img src="./screenshots/img1ml.jpg" alt="Spider-Man Recommendations Grid" width="100%">
-</p>
+<h3 align="center">🖥️ Application Previews</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <b>1. Main Dashboard (Initial State)</b><br/>
+      <img src="./img1.1ml.png" alt="Main Dashboard" width="100%">
+    </td>
+    <td align="center" width="50%">
+      <b>2. Real-time Searching Loader</b><br/>
+      <img src="./mrs.png" alt="Searching State" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <b>3. Sci-Fi Recommendations (Spider-Man)</b><br/>
+      <img src="./img1ml.png" alt="Spider-Man Recommendations" width="100%">
+    </td>
+    <td align="center" width="50%">
+      <b>4. Animated Recommendations (Tangled)</b><br/>
+      <img src="./img2ml.png" alt="Animated Recommendations" width="100%">
+    </td>
+  </tr>
+</table>
 
-#### **2. Animated & Family Recommendations (e.g., Tangled)**
-<p align="center">
-  <img src="./screenshots/img2ml.jpg" alt="Animated Movies Recommendations Grid" width="100%">
-</p>
 ## ⚙️ How It Works (Data Pipeline)
-
 1. **Data Preprocessing & Feature Engineering:** 
    * Cleaned the raw dataset of 5,000+ movies by removing null entries and duplicates.
    * Merged separate metadata columns (`genres`, `keywords`, `cast`, `crew`, `overview`) into a single structural `tags` column.
