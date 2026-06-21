@@ -1,4 +1,4 @@
-#🎬 Movie Recommendation System
+###🎬 Movie Recommendation System
 
 A Full-Stack Machine Learning application that recommends 20 similar movies based on a user's selection using Content-Based Filtering and Cosine Similarity. Built with React.js, Flask, and Scikit-Learn, and deployed using Netlify and Hugging Face Spaces.
 
